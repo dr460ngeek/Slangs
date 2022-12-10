@@ -1,7 +1,7 @@
 # Lets make our code dirty hehehe...
-
+## WORKS ONLY ON PYTHON
 ## Just Paste this 
-
+## Replace 'dr460n' to your name hehe.
 ```
 #                                End of the code.
 #                                   By dr460n. 
